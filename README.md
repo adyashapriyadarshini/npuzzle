@@ -1,7 +1,6 @@
 # N-Puzzle AI Game
 ## Live Demo
-
-
+https://adyashapriyadarshini.github.io/npuzzle/
 ## Preview
 
 ![N-Puzzle AI](preview.png)
